@@ -1,9 +1,12 @@
 
 <html>
   <head>
-    <h1>This Is My First Html</h1>
-    <body>
-      <font bgcolor="red">
-        this is my first html
+    <title>My First HTML</title>
   </head>
+  <body>
+    <h1>This Is My First HTML</h1>
+    <font color="red">
+      This is my first HTML
+    </font>
+  </body>
 </html>
