@@ -1,5 +1,4 @@
-# my-html-project
-this is for trying html
+
 <html>
   <head>
     <h1>This Is My First Html</h1>
