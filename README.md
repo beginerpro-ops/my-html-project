@@ -1,11 +1,9 @@
 
-<html>
-  <head>
-    <title>My First HTML</title>
-  </head>
-  <body>
-    <h1>This Is My First HTML</h1>
-    <font color="red">
+<html>`
+  <body font color="red">>
+    <h1>BLOX FRUIT</h1>
+    
+    
       This is my first HTML
     </font>
   </body>
