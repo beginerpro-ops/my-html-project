@@ -1,11 +1,7 @@
-
-<html>`
-  <body font color="red">>
-    <h1>BLOX FRUIT</h1>
-    To Know More About Blox Fruit Press Here<br>
-(https://blox-fruits.fandom.com/wiki/Blox_Fruits_Wiki)<br>
-    To Know More About Blox Fruit Prices Press Below <br>
-    https://bloxfruitsvalues.com/calculator
-    </font>
-  </body>
+<html>
+  <head>
+    <h1>Blox Fruit</h1>
+    <h2> 1.What is Blox Fruit </h2>
+    <body>Blox Fruits is a Roblox adventure game where players explore the ocean, fight enemies, and become a skilled swordsman or Blox Fruit user.<br> It's inspired by the manga and anime series One Piece. 
+  </head>
 </html>
